@@ -1,0 +1,14 @@
+C:\Users\Emil\source\repos\BitcoinCalculator1\BitcoinCalculator1\bin\Debug\BitcoinCalculator1.exe.config
+C:\Users\Emil\source\repos\BitcoinCalculator1\BitcoinCalculator1\bin\Debug\BitcoinCalculator1.exe
+C:\Users\Emil\source\repos\BitcoinCalculator1\BitcoinCalculator1\bin\Debug\BitcoinCalculator1.pdb
+C:\Users\Emil\source\repos\BitcoinCalculator1\BitcoinCalculator1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emil\source\repos\BitcoinCalculator1\BitcoinCalculator1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emil\source\repos\BitcoinCalculator1\BitcoinCalculator1\obj\Debug\BitcoinCalculator1.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\BitcoinCalculator1\BitcoinCalculator1\obj\Debug\BitcoinCalculator1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emil\source\repos\BitcoinCalculator1\BitcoinCalculator1\obj\Debug\BitcoinCalculator1.Properties.Resources.resources
+C:\Users\Emil\source\repos\BitcoinCalculator1\BitcoinCalculator1\obj\Debug\BitcoinCalculator1.csproj.GenerateResource.cache
+C:\Users\Emil\source\repos\BitcoinCalculator1\BitcoinCalculator1\obj\Debug\BitcoinCalculator1.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\BitcoinCalculator1\BitcoinCalculator1\obj\Debug\BitcoinCalculator1.csproj.CopyComplete
+C:\Users\Emil\source\repos\BitcoinCalculator1\BitcoinCalculator1\obj\Debug\BitcoinCalculator1.exe
+C:\Users\Emil\source\repos\BitcoinCalculator1\BitcoinCalculator1\obj\Debug\BitcoinCalculator1.pdb
+C:\Users\Emil\source\repos\BitcoinCalculator1\BitcoinCalculator1\obj\Debug\BitCoinCalculato.BitcoinCalculator.resources
